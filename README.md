@@ -9,3 +9,4 @@ Note
   #define TFT_DC    2  // Data Command control pin
   #define TFT_RST   4  // Reset pin (could connect to RST pin)
   #define TFT_RST  -1  // Set TFT_RST to -1 if display RESET is connected to ESP32 board RST
+-Phản hồi qua email: vuhungdung0203@gmail.com
